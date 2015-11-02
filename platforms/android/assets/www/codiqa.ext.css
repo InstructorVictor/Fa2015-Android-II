@@ -1,0 +1,42 @@
+/* Put your custom CSS here */
+.divImgWide {
+	width: 100%;
+}
+
+.divImgCrop {
+	overflow: hidden;
+}
+
+.closeBtnRight {
+	float: right; 
+}
+
+.gridAlignCenter {
+	text-align: center;
+}
+
+.divCenter {
+	text-align: center;
+}
+
+.ui-content h2 {
+	margin: 0;
+}
+
+.ui-header .ui-title {
+	margin: 0 10%;
+}
+
+body {
+	font-size: 1.25em;
+}
+
+.ui-dialog-contain > .ui-content {
+	background-color: yellowgreen;
+}
+
+.ui-dialog-contain > .ui-content img {
+	background-color: white;
+	padding: 25px;
+	border-radius: 5px;
+}
